@@ -36,3 +36,7 @@ detailed explanation can be found in below link
 https://www.youtube.com/watch?v=_UqnwRSyfzk
 
 
+TestLibrary.sol
+Explains the useage of library and invoking library functions inside contract. Eventhough I am using very basic and simple example, but main aim is to make solidity clear for everyone
+https://www.youtube.com/watch?v=M5xcDmlu0cQ
+
