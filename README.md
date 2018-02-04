@@ -40,3 +40,10 @@ TestLibrary.sol
 Explains the useage of library and invoking library functions inside contract. Eventhough I am using very basic and simple example, but main aim is to make solidity clear for everyone
 https://www.youtube.com/watch?v=M5xcDmlu0cQ
 
+CheckFileownership.sol
+Checks whether file has been changed or not. if it is new file, we will add the owner name as well as timestamp when it is added
+
+Employeedetails.sol
+register employee and get employee details using employee id
+https://www.youtube.com/watch?v=447-i4QthT8
+
