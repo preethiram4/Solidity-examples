@@ -28,3 +28,11 @@ https://www.youtube.com/watch?v=qDgIju-vqfU&t=16s
 Addition.sol
 Detailed explanation can be found in youtube link :
 https://youtu.be/7ioEHbjQSe4
+
+
+LibrarywithStructs.sol
+Using Library function and for as well as how to use struct data type
+detailed explanation can be found in below link 
+https://www.youtube.com/watch?v=_UqnwRSyfzk
+
+
